@@ -7,7 +7,7 @@ This project combines python requests, APIs and JSON traversals to examine the r
 In this section, we use the jupyter notebook: [WeatherPy.ipynb](WeatherPy/WeatherPy.ipynb) to extact a random sample population of 555 cities in varying latitudes and longitudes. This data is stored in the [cities.csv](WeatherPy/output_data/cities.csv) file in the [output_data](WeatherPy/output_data) folder and used for the following analyses:
 
 <ol>
-    <li>[Latitude vs. Maximum Temperature](WeatherPy/output_data/ScatterPlots/LatvsTemp.png)</li>
+    <li><a href="WeatherPy/output_data/ScatterPlots/LatvsTemp.png">Latitude vs. Maximum Temperature</a></li>
     <li>[Latitude vs. Humidity](WeatherPy/output_data/ScatterPlots/LatvsHumidity.png)</li>
     <li>[Latitude vs. Cloudiness](WeatherPy/output_data/ScatterPlots/LatvsCloudiness.png)</li>
     <li>[Latitude vs. Windspeed](WeatherPy/output_data/ScatterPlots/LatvsWindspeed.png)</li>
