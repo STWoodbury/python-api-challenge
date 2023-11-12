@@ -8,9 +8,9 @@ In this section, we use the jupyter notebook: [WeatherPy.ipynb](WeatherPy/Weathe
 
 <ol>
     <li><a href="WeatherPy/output_data/ScatterPlots/LatvsTemp.png">Latitude vs. Maximum Temperature</a></li>
-    <li>[Latitude vs. Humidity](WeatherPy/output_data/ScatterPlots/LatvsHumidity.png)</li>
-    <li>[Latitude vs. Cloudiness](WeatherPy/output_data/ScatterPlots/LatvsCloudiness.png)</li>
-    <li>[Latitude vs. Windspeed](WeatherPy/output_data/ScatterPlots/LatvsWindspeed.png)</li>
+    <li><a href="WeatherPy/output_data/ScatterPlots/LatvsHumidity.png">Latitude vs. Humidity]</a></li>
+    <li><a href="WeatherPy/output_data/ScatterPlots/LatvsCloudiness.png">Latitude vs. Cloudiness</a></li>
+    <li><a href ="WeatherPy/output_data/ScatterPlots/LatvsWindspeed.png">Latitude vs. Windspeed</a></li>
 </ol>
 
 We then examine the significance of these relationships in both the northern and southern hemispheres by filtering the dataframe by latitude and storing the separate datafiles under [southern_hemi_data.csv](WeatherPy/output_data/southern_hemi_data.csv) and [northern_hemi_data](WeatherPy/output_data/northern_hemi_data.csv)
@@ -20,14 +20,14 @@ Each hemisphere and relationship is then plotted with a linear regression to est
 These regressions can be found in the following files:
 
 <ol>
-    <li>[Northern Hemisphere Latitude vs. Temperature](WeatherPy/output_data/Regressions/NHemiCityvsTemp.png)</li>
-    <li>[Southern Hemisphere Latitude vs. Temperature](WeatherPy/output_data/Regressions/SHemiCityvsTemp.png)</li>
-    <li>[Northern Hemisphere Latitude vs. Humidity](WeatherPy/output_data/Regressions/NHemiCityvsHumid.png)</li>
-    <li>[Southern Hemisphere Latitude vs. Humidity](WeatherPy/output_data/Regressions/SHemiCityvsHumid.png)</li>
-    <li>[Northern Hemisphere Latitude vs. Cloudiness](WeatherPy/output_data/Regressions/NHemiCityvsCloudy.png)</li>
-    <li>[Southern Hemisphere Latitude vs. Cloudiness](WeatherPy/output_data/Regressions/SHemiCityvsCloudy.png)</li>
-    <li>[Northern Hemisphere Latitude vs. Windspeed](WeatherPy/output_data/Regressions/SHemiCityvsWindy.png)</li>
-    <li>[Southern Hemisphere Latitude vs. Windspeed](WeatherPy/output_data/Regressions/SHemiCityvsWindy.png)</li>
+    <li><a href= "WeatherPy/output_data/Regressions/NHemiCityvsTemp.png">Northern Hemisphere Latitude vs. Temperature</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/SHemiCityvsTemp.png">Southern Hemisphere Latitude vs. Temperature</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/NHemiCityvsHumid.png">Northern Hemisphere Latitude vs. Humidity</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/SHemiCityvsHumid.png">Southern Hemisphere Latitude vs. Humidity</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/NHemiCityvsCloudy.png">Northern Hemisphere Latitude vs. Cloudiness</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/SHemiCityvsCloudy.png">Southern Hemisphere Latitude vs. Cloudiness</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/SHemiCityvsWindy.png">Northern Hemisphere Latitude vs. Windspeed</a></li>
+    <li><a href= "WeatherPy/output_data/Regressions/SHemiCityvsWindy.png">Southern Hemisphere Latitude vs. Windspeed</a></li>
 </ol>
 
 Based on these regressions, the following conclusions were found: (more extensive explanations can be found under each regression plot in the [WeatherPy Notebook](WeatherPy/WeatherPy.ipynb)):
