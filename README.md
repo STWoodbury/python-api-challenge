@@ -39,7 +39,7 @@ Based on these regressions, the following conclusions were found: (more extensiv
     <li>There is no statistically significant correlation between latitude and wind speed in either hemisphere</li>
 <ul>
     
-## [Part 2:[VacationPy]](VacationPy)
+## [Part 2: VacationPy](VacationPy)
 
 In this section, we use the jupyter notebook: [VacationPy.ipynb](VacationPy/VacationPy.ipynb) to examine the sample cities from the previous analysis as hypothetical vacation location options based on weather criteria.
 
