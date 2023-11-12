@@ -8,7 +8,7 @@ In this section, we use the jupyter notebook: [WeatherPy.ipynb](WeatherPy/Weathe
 
 <ol>
     <li><a href="WeatherPy/output_data/ScatterPlots/LatvsTemp.png">Latitude vs. Maximum Temperature</a></li>
-    <li><a href="WeatherPy/output_data/ScatterPlots/LatvsHumidity.png">Latitude vs. Humidity]</a></li>
+    <li><a href="WeatherPy/output_data/ScatterPlots/LatvsHumidity.png">Latitude vs. Humidity</a></li>
     <li><a href="WeatherPy/output_data/ScatterPlots/LatvsCloudiness.png">Latitude vs. Cloudiness</a></li>
     <li><a href ="WeatherPy/output_data/ScatterPlots/LatvsWindspeed.png">Latitude vs. Windspeed</a></li>
 </ol>
