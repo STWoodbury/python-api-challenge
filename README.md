@@ -43,7 +43,7 @@ Based on these regressions, the following conclusions were found: (more extensiv
 
 In this section, we use the jupyter notebook: [VacationPy.ipynb](VacationPy/VacationPy.ipynb) to examine the sample cities from the previous analysis as hypothetical vacation location options based on weather criteria.
 
-First, the previous cities dataset is loaded and mapped using hvplot.points. The plot points are filtered by size based on the humidity of each city. The map is then downloaded as an html file and can be found in [map_plot](VacationPy/output_data/map_plot.html)
+First, the previous cities dataset is loaded and mapped using hvplot.points. The plot points are filtered by size based on the humidity of each city. The map is then downloaded as an html file and can be found in [map_plot](VacationPy/output_data/Map_Plot.png)
 
 This dataset is then filtered based on the following criteria:
 
@@ -55,7 +55,7 @@ This dataset is then filtered based on the following criteria:
 
 The resulting dataframe is stored in [filteredcities.csv](VacationPy/output_data/filteredcities.csv). For each of these cities, we then use geoapify api to find the first hotel within 10000 meters of Lat/Long Coordinates. The names of these hotels are appended to a new dataframe which can be found in the [hotel_df](VacationPy/output_data/hotel_df.csv) file. 
 
-These hotels are then mapped using hvplot.points and downloaded as an html file which can be found in [Hotel_plot](VacationPy/output_data/Hotel_plot.html)
+These hotels are then mapped using hvplot.points and downloaded as an html file which can be found in [Hotel_plot](VacationPy/output_data/Hotel_plot.png)
 
 
 
